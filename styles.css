@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    background-color: #f1f2f6;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width:40vw;
+    height:50vh;
+    background-color:#f1f2f6;
+    padding-top: 300px;
+    padding-left: 160px;
+   
+
+}
+
+.right{ width: 50vw;
+    height: 100vh;
+    background-color:#f1f2f6;
+
+}
+.ll{
+    width:25vw;
+    height: 5vh;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.one{
+    font-family: monospace; 
+    font-size:50px;
+    color:#0e6eff;
+    
+}
+   
+ .two{
+   font-size:x-large;
+   letter-spacing: 1px;
+ }
+  .three{
+    font-size:x-large;
+    letter-spacing: 1px;
+    
+}
+.top{
+    background-color: white;
+    width:28vw;
+    height:50vh;
+    border-radius: 3%;
+    box-shadow:rgba(0,0,0,0.3) 0px 0px 5px; ;
+    margin-top:140px;
+    padding-top:40px;
+}
+.bun{
+    background-color:#0e6eff;
+    width: 25vw;
+    height: 5vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border: none;
+}
+.for{
+    text-decoration: none;
+    color: #0e6eff;
+    margin-left:160px;
+   
+}
+.bottom{
+    background-color:white;
+    width: 28vw;
+    height: 17vh;
+    border-bottom-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+.create{
+    border: none;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 25vw;
+    height: 6vh;
+    background-color:#36d612;
+    color: white;
+    font-weight: 100;
+}
+.line{
+    margin-top: 50px;
+    width:85%;
+    margin-left:30px;
+}
