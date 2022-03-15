@@ -91,3 +91,64 @@
     width:85%;
     margin-left:30px;
 }
+.down{margin-top:10px;
+    margin-left:65px;
+}
+@media all and ( max-width:880px)
+{
+ body{
+        margin-left:80px;
+    }
+    .container{
+        width: 70vw;
+        display: flex;
+        flex-direction:column;
+        margin-top:50px;
+        margin-left:0px;
+        }
+    .left{
+        width:80vw;
+        height:20vh;
+        padding:0px;
+    }
+    .ll{
+        width:60vw;
+    }
+    .right{
+        width:80vw;
+        height:65vh;
+        margin:0px;
+        padding-top: 0px;
+       
+    }
+    .top{
+        width:70vw;
+        height:50vh;
+        margin-top:0px;
+        margin-left:25px;
+    }
+    .one{
+        font-size:35px;
+        padding-top:20px;
+        padding-left:30px;
+    }
+    .two,.three{
+        padding-top:5px;
+        font-size: 20px;
+        padding-left:30px;
+    }
+    .create ,.bun{
+        width:63vw;
+    }
+    .line{
+        margin-top:20px;
+    }
+    .bun{
+        margin-bottom:15px;
+    }
+    .for{
+        margin-left:55px;
+    }
+    .down{
+           margin-left:50px;    }
+}
